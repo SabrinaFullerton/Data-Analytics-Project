@@ -9,4 +9,4 @@ The data:
 - 85.9% had NO health issue during lockdown and 14.03% did have a health issue.
 - Nearly half spent time on self study and the other half spent time in online classes.
 - most students used Instagram for social media
--
+
