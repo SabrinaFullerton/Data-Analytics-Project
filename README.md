@@ -1,6 +1,6 @@
 # Data-Analytics-Project
 
-I used a range of techniques including PowerBI, Excel and SQL to form my information of this data. The data used is the impact of COVID had had on the education, health and social life of students.
+I used a range of techniques including PowerBI, Excel and SQL to form my information of this data. The data used is the impact that COVID had on the education, health and social life of students.
 
 The data:
 - 1182 students was p;art of the research.
